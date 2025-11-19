@@ -1,0 +1,2 @@
+a = "ade"
+print(a)
